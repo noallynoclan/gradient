@@ -139,4 +139,5 @@ dmypy.json
 cython_debug/
 
 # DATA FOLDERS
-data/
+.data/
+pytorch_tutorials/data/
